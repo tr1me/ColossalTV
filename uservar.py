@@ -14,7 +14,7 @@ ART = os.path.join(PATH, 'resources', 'media')
 #        User Edit Variables                            #
 #########################################################
 ADDONTITLE = '[COLOR limegreen][B]Open[/B][/COLOR]Wizard'
-BUILDERNAME = 'OpenWizard'
+BUILDERNAME = 'ColossalTV'
 EXCLUDES = [ADDON_ID, 'repository.openwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
 BUILDFILE = 'http://'
