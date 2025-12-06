@@ -79,7 +79,7 @@ HIDECONTACT = 'No'
 # You can add \n to do line breaks
 CONTACT = 'Thank you for choosing COLOSSALTV.\n\nContact us on facebook: https://facebook.com/ColossalTV'
 # Images used for the contact window.  http:// for default icon and fanart
-CONTACTICON = os.path.join(ART, 'qricon.png')
+CONTACTICON = os.path.join(ART, 'contact.png')
 CONTACTFANART = 'http://'
 #########################################################
 
