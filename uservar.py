@@ -41,7 +41,7 @@ ADVANCEDFILE = 'http://'
 # Example:  ICONMAINT     = os.path.join(ART, 'mainticon.png')
 #           ICONSETTINGS  = 'https://www.yourhost.com/repo/wizard/settings.png'
 # Leave as http:// for default icon
-ICONBUILDS = os.path.join(ART, 'builds.png')
+ICONBUILDS = os.path.join(ART, 'ColossallogoMAIN.png')
 ICONMAINT = os.path.join(ART, 'maintenance.png')
 ICONSPEED = os.path.join(ART, 'speed.png')
 ICONAPK = os.path.join(ART, 'apkinstaller.png')
