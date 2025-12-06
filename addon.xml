@@ -133,9 +133,10 @@
  - Initial Commit
         </news>
         <assets>
-            <icon>icon.png</icon>
+            <icon>png</icon>
             <fanart>fanart.png</fanart>
         </assets>
     </extension>
 </addon>
+
 
