@@ -13,9 +13,9 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR limegreen][B]Open[/B][/COLOR]Wizard'
-BUILDERNAME = 'ColossalTV'
-EXCLUDES = [ADDON_ID, 'repository.openwizard']
+ADDONTITLE = 'ADDONTITLE = '[COLOR limegreen][B]COLOSSALTV[/B][/COLOR] Wizard'
+BUILDERNAME = 'COLOSSALTV'
+EXCLUDES = [ADDON_ID, 'repository.colossaltv']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
 BUILDFILE = 'https://www.dropbox.com/scl/fi/yxvmzrsdp979ohzyvtg1q/Colossaltvbuild.zip?rlkey=n7vddc1dkwimw9dibr92jf6tg&st=3t8b6bi8&dl=1'
 # How often you would like it to check for build updates in days
@@ -77,7 +77,7 @@ THEME5 = u'[COLOR {color1}]Current Theme:[/COLOR] [COLOR {color2}]{{}}[/COLOR]'.
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
 HIDECONTACT = 'No'
 # You can add \n to do line breaks
-CONTACT = 'Thank you for choosing OpenWizard.\n\nContact us on Github at http://www.github.com/drinfernoo/plugin.program.openwizard/'
+CONTACT = 'Thank you for choosing COLOSSALTV.\n\nContact us on facebook: https://facebook.com/ColossalTV'
 # Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON = os.path.join(ART, 'qricon.png')
 CONTACTFANART = 'http://'
@@ -96,11 +96,11 @@ AUTOUPDATE = 'Yes'
 # Enable Auto Install 'Yes' or 'No'
 AUTOINSTALL = 'Yes'
 # Addon ID for the repository
-REPOID = 'repository.openwizard'
+REPOID = 'repository.colossaltv'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/addons.xml'
+REPOADDONXML = 'https://raw.githubusercontent.com/tr1me/repository.colossaltv/master/zips/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/zips/repository.openwizard/'
+REPOZIPURL = 'https://raw.githubusercontent.com/tr1me/repository.colossaltv/master/zips/repository.colossaltv/'
 #########################################################
 
 #########################################################
@@ -114,7 +114,7 @@ NOTIFICATION = 'http://'
 HEADERTYPE = 'Text'
 # Font size of header
 FONTHEADER = 'Font14'
-HEADERMESSAGE = '[COLOR limegreen][B]Open[/B][/COLOR]Wizard'
+HEADERMESSAGE = '[COLOR limegreen][B]COLOSSALTV[/B][/COLOR]Wizard'
 # url to image if using Image 424x180
 HEADERIMAGE = 'http://'
 # Font for Notification Window
