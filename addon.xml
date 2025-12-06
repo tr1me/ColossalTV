@@ -133,11 +133,12 @@
  - Initial Commit
         </news>
         <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.png</fanart>
+            <icon>ColossallogoMAIN.png</icon>
+            <fanart>ColossallogoMAIN.png</fanart>
         </assets>
     </extension>
 </addon>
+
 
 
 
