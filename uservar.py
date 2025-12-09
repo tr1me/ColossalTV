@@ -13,7 +13,7 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = 'ADDONTITLE = '[COLOR limegreen][B]COLOSSALTV[/B][/COLOR] Wizard'
+ADDONTITLE = '[COLOR limegreen][B]COLOSSALTV[/B][/COLOR]Wizard'
 BUILDERNAME = 'COLOSSALTV'
 EXCLUDES = [ADDON_ID, 'repository.colossaltv']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
@@ -100,25 +100,25 @@ REPOID = 'repository.colossaltv'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
 REPOADDONXML = 'https://raw.githubusercontent.com/tr1me/repository.colossaltv/master/zips/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://raw.githubusercontent.com/tr1me/repository.colossaltv/master/zips/repository.colossaltv/'
+REPOZIPURL = 'https://github.com/tr1me/repository.colossaltv/releases/download/v1.0/'
 #########################################################
 
 #########################################################
 #        Notification Window                            #
 #########################################################
 # Enable Notification screen Yes or No
-ENABLE = 'Yes'
+ENABLE = 'No'
 # Url to notification file
-NOTIFICATION = 'http://'
+NOTIFICATION = ''
 # Use either 'Text' or 'Image'
-HEADERTYPE = 'Text'
+HEADERTYPE = ''
 # Font size of header
 FONTHEADER = 'Font14'
 HEADERMESSAGE = '[COLOR limegreen][B]COLOSSALTV[/B][/COLOR]Wizard'
 # url to image if using Image 424x180
-HEADERIMAGE = 'http://'
+HEADERIMAGE = ''
 # Font for Notification Window
 FONTSETTINGS = 'Font13'
 # Background for Notification Window
-BACKGROUND = 'http://'
+BACKGROUND = ''
 #########################################################
