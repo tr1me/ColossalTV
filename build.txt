@@ -1,6 +1,6 @@
 id="plugin.program.openwizard"
 version="1.0.0"
-zip="https://github.com/tr1me/ColossalTV/releases/download/v1.0/Colossaltvbuild.zip"
+zip="https://github.com/tr1me/ColossalTV/releases/download/v1.0/plugin.program.colossaltv.zip"
 
 name="ColossalTV"
 version="1.0"
