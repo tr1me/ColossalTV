@@ -100,7 +100,7 @@ REPOID = 'repository.colossaltv'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
 REPOADDONXML = 'https://raw.githubusercontent.com/tr1me/repository.colossaltv/master/zips/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://github.com/tr1me/repository.colossaltv/releases/download/v1.0/'
+REPOZIPURL = 'https://raw.githubusercontent.com/tr1me/repository.colossaltv/master/zips/repository.colossaltv/'
 #########################################################
 
 #########################################################
