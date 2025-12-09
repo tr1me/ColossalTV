@@ -17,7 +17,7 @@ ADDONTITLE = 'ADDONTITLE = '[COLOR limegreen][B]COLOSSALTV[/B][/COLOR] Wizard'
 BUILDERNAME = 'COLOSSALTV'
 EXCLUDES = [ADDON_ID, 'repository.colossaltv']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://www.dropbox.com/scl/fi/yxvmzrsdp979ohzyvtg1q/Colossaltvbuild.zip?rlkey=n7vddc1dkwimw9dibr92jf6tg&st=3t8b6bi8&dl=1'
+BUILDFILE = 'https://www.dropbox.com/scl/fi/w443og5b10eh42gqeydre/build.zip?rlkey=c0zpy4q2l8r9jmfvh5vfw3q3i&st=mgplr1xn&dl=0'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
