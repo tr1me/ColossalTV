@@ -19,7 +19,7 @@
         <description lang="en">COLOSSALTV offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://github.com/tr1me/ColossalTV/</source>
+        <source>https://www.github.com/tr1me/plugin.program.colossaltv</source>
         <news>
 1.4.9
  - Fix Error Related to Log
@@ -138,6 +138,7 @@
         </assets>
     </extension>
 </addon>
+
 
 
 
