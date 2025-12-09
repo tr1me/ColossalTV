@@ -1,6 +1,6 @@
 id="plugin.program.openwizard"
 version="1.0.0"
-zip="https://github.com/tr1me/ColossalTV/tree/master"
+zip="https://www.dropbox.com/scl/fi/w443og5b10eh42gqeydre/build.zip?rlkey=c0zpy4q2l8r9jmfvh5vfw3q3i&st=mgplr1xn&dl=0"
 
 name="ColossalTV"
 version="1.0"
