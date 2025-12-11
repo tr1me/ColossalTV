@@ -22,8 +22,8 @@ if __name__ == '__main__':
     import sys
     from resources.libs.common import router
 
-    _handle = int(sys.argv[1])
-    _params = sys.argv[2][1:]
-    
+    _handle = int(sys.argv[1]) if len(sys.argv) > 1 else -1
+    _params = sys.argv[2][1:] if len(sys.argv) > 2 else ''
+
     dispatcher = router.Router()
     dispatcher.dispatch(_handle, _params)
