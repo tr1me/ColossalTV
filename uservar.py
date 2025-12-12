@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR limegreen][B]COLOSSALTV[/B][/COLOR]Wizard'
 BUILDERNAME = 'COLOSSALTV'
 EXCLUDES = [ADDON_ID, 'repository.colossaltv']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://raw.githubusercontent.com/tr1me/repository.colossaltv/master/build.txt'
+BUILDFILE = 'https://tr1me.github.io/repository.colossaltv/build.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
@@ -98,9 +98,9 @@ AUTOINSTALL = 'Yes'
 # Addon ID for the repository
 REPOID = 'repository.colossaltv'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML = 'https://raw.githubusercontent.com/tr1me/repository.colossaltv/master/zips/addons.xml'
+REPOADDONXML = 'https://tr1me.github.io/repository.colossaltv/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'repository.colossaltv/zips/plugin.program.colossaltv/plugin.program.colossaltv-1.4.9.zip'
+REPOZIPURL = 'https://tr1me.github.io/repository.colossaltv/zips/plugin.program.colossaltv/'
 #########################################################
 
 #########################################################
